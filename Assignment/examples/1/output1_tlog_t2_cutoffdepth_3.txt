@@ -1,0 +1,62 @@
+Node,Depth,Value,Alpha,Beta
+root 1 -Infinity -Infinity Infinity
+a1 2 Infinity -Infinity Infinity
+b1 3 -Infinity -Infinity Infinity
+a4 4 25.0 -Infinity Infinity
+b1 3 25.0 25.0 Infinity
+f4 4 23.0 25.0 Infinity
+b1 3 25.0 25.0 Infinity
+a1 2 25.0 -Infinity 25.0
+f4 3 -Infinity -Infinity 25.0
+b1 4 25.0 -Infinity 25.0
+f4 3 25.0 25.0 25.0 CUT-OFF
+a1 2 25.0 -Infinity 25.0
+d6 3 -Infinity -Infinity 25.0
+b1 4 21.0 -Infinity 25.0
+d6 3 21.0 21.0 25.0
+a4 4 19.0 21.0 25.0
+d6 3 21.0 21.0 25.0
+f4 4 23.0 21.0 25.0
+d6 3 23.0 23.0 25.0
+a1 2 23.0 -Infinity 23.0
+a8 3 -Infinity -Infinity 23.0
+b1 4 21.0 -Infinity 23.0
+a8 3 21.0 21.0 23.0
+a4 4 23.0 21.0 23.0
+a8 3 23.0 23.0 23.0 CUT-OFF
+a1 2 23.0 -Infinity 23.0
+root 1 23.0 23.0 Infinity
+b1 2 Infinity 23.0 Infinity
+a1 3 -Infinity 23.0 Infinity
+f4 4 25.0 23.0 Infinity
+a1 3 25.0 25.0 Infinity
+b1 2 25.0 23.0 25.0
+a4 3 -Infinity 23.0 25.0
+a1 4 27.0 23.0 25.0
+a4 3 27.0 27.0 25.0 CUT-OFF
+b1 2 25.0 23.0 25.0
+f4 3 22.0 23.0 25.0
+b1 2 22.0 23.0 22.0 CUT-OFF
+root 1 23.0 23.0 Infinity
+f4 2 Infinity 23.0 Infinity
+b1 3 -Infinity 23.0 Infinity
+a1 4 33.0 23.0 Infinity
+b1 3 33.0 33.0 Infinity
+a4 4 29.0 33.0 Infinity
+b1 3 33.0 33.0 Infinity
+f4 2 33.0 23.0 33.0
+d6 3 -Infinity 23.0 33.0
+a1 4 23.0 23.0 33.0
+d6 3 23.0 23.0 33.0
+b1 4 27.0 23.0 33.0
+d6 3 27.0 27.0 33.0
+a4 4 25.0 27.0 33.0
+d6 3 27.0 27.0 33.0
+f4 2 27.0 23.0 27.0
+a8 3 -Infinity 23.0 27.0
+a1 4 23.0 23.0 27.0
+a8 3 23.0 23.0 27.0
+b1 4 29.0 23.0 27.0
+a8 3 29.0 29.0 27.0 CUT-OFF
+f4 2 27.0 23.0 27.0
+root 1 27.0 27.0 Infinity
